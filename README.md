@@ -5,7 +5,7 @@ This has been designed mainly to work with those sheet music channels like [musi
 
 ### Install required stuff
 
-`pip install moviepy yt_dlp scenedetect[opencv]`
+`pip install moviepy yt_dlp scenedetect[opencv] fpdf`
 
 ### Run
 

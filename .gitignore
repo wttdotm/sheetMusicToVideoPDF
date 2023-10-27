@@ -1,5 +1,7 @@
 classification_cache/*
+output_pdfs/*
 yttest.py
 *.mp4
 *.jpg
+*.pdf
 .DS_Store
